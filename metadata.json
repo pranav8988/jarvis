@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis AI Voice Assistant",
+  "description": "A fully voice-operated AI assistant created by Pranav Shinde, inspired by Jarvis. Features real-time conversation, context awareness, and a futuristic holographic UI.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["voice_recognition", "ai_chat", "data_persistence"]
+}
